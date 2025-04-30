@@ -1,6 +1,6 @@
 # Phishing-Website-Detection
 
- Machine learning project to detect phishing websites using classification techniques.
+A machine learning-based project to detect phishing websites using structured features and classification models such as Random Forest and XGBoost.
 
 # 🛡️ Phishing Website Detection - Machine Learning Project
 
@@ -35,9 +35,17 @@ This project focuses on detecting phishing websites using various machine learni
 
 ---
 
+
+## 📈 Sample Output
+
+- Accuracy scores and classification reports
+- SHAP plots for model explanation
+
+
 ## 📁 Files
 
 - `Phishing_Websites.ipynb`: Complete notebook containing EDA, preprocessing, and modeling.
+- `README.md`: Project description and usage instructions.
 
 ---
 
