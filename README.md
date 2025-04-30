@@ -46,6 +46,7 @@ This project focuses on detecting phishing websites using various machine learni
 
 - `Phishing_Websites.ipynb`: Complete notebook containing EDA, preprocessing, and modeling.
 - `README.md`: Project description and usage instructions.
+- dataset_phishing.csv: dataset used in this model.
 
 ---
 
